@@ -26,8 +26,4 @@ Github: http://github.com/Gideon0123
 
 LinkedIn: https://www.linkedin.com/in/nwokporo-chijioke-gideon/
 
-<<<<<<< HEAD
 Twitter/X: https://www.x.com/chijioke-gidi
-=======
-Twitter/X: https://www.x.com/chijioke-gidi
->>>>>>> af6aee0bd13f3bbce479085f823ec0886e534b21

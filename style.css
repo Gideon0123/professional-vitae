@@ -350,6 +350,7 @@ footer {
     flex-direction: column;
     justify-content: center;
     text-align: center;
+    overscroll-behavior-y: none;
 }
 
 .footer-links {
@@ -426,7 +427,7 @@ footer .footer-text p {
         display: none;
     }
     nav .right a i {
-        font-size: 20px;
+        font-size: 22px;
     }
     nav .nav .right .theme-btn {
         color: var(--link-color);
