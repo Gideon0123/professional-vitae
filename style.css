@@ -41,6 +41,9 @@ body {
     margin: 0 auto;
     transition: background-color 0.3s ease, color 0.3s ease;
     overscroll-behavior-y: none;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
 }
 
 a {
@@ -351,6 +354,7 @@ footer {
     justify-content: center;
     text-align: center;
     overscroll-behavior-y: none;
+    margin-top: auto;
 }
 
 .footer-links {
