@@ -18,6 +18,7 @@ This portfolio was built from scratch using
 *   **Font Awesome** (Vector icons)
 
 # Let's Connect
+
 I am currently open to new opportunities! If you like what you see, feel free to reach out.
 
 Email: nwokporochijiokegideon@gmail.com
